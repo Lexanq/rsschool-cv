@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Lexanq.github.io/rsschool-cv/cv
+https://Lexanq.github.io/rsschool-cv/
