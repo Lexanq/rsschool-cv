@@ -3,9 +3,10 @@
     font-size: 200%;
     font-family: Arial, Verdana, sans-serif;
     text-align: center;
+    min-height: 200px;
   }
   .header:hover {
-    background-color: chartreuse;
+    background-color: rgb(0, 96, 240);
   }
   .first-paragraph {
     padding-left: 20px;
