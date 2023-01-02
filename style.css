@@ -1,1 +1,12 @@
-
+.header {
+    color: #000080;
+    font-size: 200%;
+    font-family: Arial, Verdana, sans-serif;
+    text-align: center;
+  }
+  .header:hover {
+    background-color: chartreuse;
+  }
+  .first-paragraph {
+    padding-left: 20px;
+  }
